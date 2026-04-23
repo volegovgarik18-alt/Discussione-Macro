@@ -1,0 +1,6 @@
+{
+  "name": "TradeFlow Pro",
+  "description": "Professional trading analyst dashboard for XAU/USD and macro markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI market insights", "Technical analysis", "Trading psychology"]
+}
